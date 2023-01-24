@@ -6,3 +6,6 @@ myNumber = 12;
 
 console.log(myName);
 
+
+document.body.innerHTML = myName;
+
